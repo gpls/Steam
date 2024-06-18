@@ -11,16 +11,6 @@ Steam comptait en février 2015 plus de 125 millions d'utilisateurs et en mars 2
 
 
 
-Analyse du macro-environnement:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/362438496397165/2956102882853578/1619747908713141/latest.html
-
-Analyse des genres:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/362438496397165/2956102882853589/1619747908713141/latest.html
-
-Analyse de la plateforme:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/362438496397165/2956102882853600/1619747908713141/latest.html
-
-
 ## Goal of the project
 
 Réaliser une analyse globale des jeux disponibles sur la place de marché Steam afin de mieux comprendre l'écosystème du jeu vidéo et les tendances actuelles.
