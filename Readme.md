@@ -10,11 +10,6 @@ Première version: 12 septembre 2023
 Steam comptait en février 2015 plus de 125 millions d'utilisateurs et en mars 2017 plus de 14 000 jeux.
 
 
-### Prerequisites - Installations
-
-
-
-
 ## Dataset
 
 Notre jeu de données nous à été transmis par Jedha Bootcamp et est disponilbe par ce lien: (('s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json')
