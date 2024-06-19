@@ -22,7 +22,7 @@ Réaliser une analyse globale des jeux disponibles sur la place de marché Steam
 
 ## Project and repository architecture
 
-Ce projet se décline en trois analyses:
+Ce projet se décline en trois analyses: (Veuillez cliquez sur les liens ci-dessous)
 
 Analyse du macro-environnement:
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/362438496397165/2956102882853578/1619747908713141/latest.html
@@ -32,6 +32,8 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Analyse de la plateforme:
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/362438496397165/2956102882853600/1619747908713141/latest.html
+
+
 
 ## Deliverables
 
