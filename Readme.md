@@ -1,6 +1,11 @@
 # Steam project - 
 
-*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![CSS3](https://img.shields.io/badge/CSS3-pink.svg)
+![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
+![Numpy](https://img.shields.io/badge/Library-Numpy-blue.svg)
+![flask](https://img.shields.io/badge/Library-flask-white.svg)
+![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)
 
 
 ## Presentation
