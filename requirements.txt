@@ -5,3 +5,9 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import explode
 from pyspark.sql.functions import to_date
 
+black
+flake8
+isort
+pip
+python-dotenv
+-e .
